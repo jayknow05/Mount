@@ -1,10 +1,10 @@
-﻿"width"= 2.306in'Phone width
-"D1@Sketch1" = "width" + 2 * "wall" + 2 * "margin"'Overall width of holster
+﻿"width"= 2.53in'Phone width
+"D1@Sketch1" = "width" + 2 * "wall" +2*"margin"'Overall width of holster
 "wall"= 0.125in'Metal thickness
 "height"= 3in'Overall holster height
 "D2@Sketch1"= "height"'Overall holster height
-"depth"= 0.368in'Thickness of phone
-"D1@Boss-Extrude1"= "depth" + 2 * "wall" + 2 * "margin" 'Overal depth of holster
+"depth"= 0.53in'Thickness of phone
+"D1@Boss-Extrude1"= "depth" + 2 * "wall" + 2*"margin" 'Overal depth of holster
 "D3@Sketch2"="wall"
 "D4@Sketch2"= "wall"
 "screen_width"= 2.01in'Width of visible screen
