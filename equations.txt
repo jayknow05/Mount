@@ -12,11 +12,9 @@
 "D2@Sketch2" = "wall"
 "D1@Sketch2"="wall"
 "D1@Cut-Extrude1"="wall"
-"D1@Sketch3"="screen_width"
 "D1@Cut-Extrude2" = "lower_edge" + "wall"
 "lower_edge"= .408'How deep the phone sits in the holster
 "tool_diam"= .66'Diameter of the tool used for undercuts, set to match the corners of the phone
-"D1@Fillet1"="tool_diam"/2
 "D1@Fillet2"="tool_diam"/2
 "button_cutout"= .48in'Cutout for the iPhone button
-"D1@Sketch4" = "button_cutout"
+"D1@Fillet3" = "tool_diam"/2 ' fillets where the corners of the phone sit
